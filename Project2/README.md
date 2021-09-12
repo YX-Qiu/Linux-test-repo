@@ -59,3 +59,4 @@ $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
 ```
 
+Move the white ball in Gazeo into the scene of the robot's camera.
