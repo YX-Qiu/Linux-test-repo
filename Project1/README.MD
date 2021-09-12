@@ -1,6 +1,7 @@
 # Build Gazebo World
+An introduction to modeling and simulation in Gazebo.
 
-## Description
+## Contents
 - Model a single floor building using the Gazebo **Bulding Editor**. 
 - Model a mobile robot using the Gazebo **Model Editor**.
 - Import models into a Gazebo world.
