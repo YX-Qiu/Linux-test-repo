@@ -12,8 +12,9 @@
 ![](Project1/pic/Gazebo_world.PNG)
 
 
-<!-- ### [Project 2](Project2) -->
-
+### [Project 2](Project2)
+Robot detects the white ball in the scene and drive towards it.
+![](Project2/pic/project2.gif)
 
 ### [Project 3](Project3)
 Adaptive Monte Carlo Localization
@@ -27,3 +28,7 @@ Building map ground truth
 `RTAB-Map` map database
 
 ![](Project4/pic/rtabmap.PNG)
+
+### [Project 5](Project5)
+Robot navitage to pick an object (blue square) and drop it off at another location.
+![](Project5/pic/project5.gif)
